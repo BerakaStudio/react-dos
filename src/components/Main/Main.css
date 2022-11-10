@@ -1,0 +1,18 @@
+.main {
+    width: 85vw;
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: darkgray;
+}
+
+.main h1 {
+    width: 100%;
+    text-align: center;
+}
+
+.main div {
+    display: flex;
+    width: 100%;
+}

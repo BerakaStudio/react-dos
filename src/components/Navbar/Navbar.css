@@ -1,0 +1,22 @@
+.navbar {
+    width: 100vw;
+    height: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: aqua;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    justify-content: center;
+}
+
+ul li {
+    float: left;
+    margin: auto 1em;
+}

@@ -1,0 +1,18 @@
+Button {
+    border: none;
+    margin: auto 10px;
+}
+Button:hover {
+    cursor: pointer;
+}
+
+.confirmar {
+    padding: 10px 25px;
+    background-color: lightgreen;
+    border-radius: 50px;
+}
+.cancelar {
+    padding: 10px 25px;
+    background-color: lightcoral;
+    border-radius: 50px;
+}   
